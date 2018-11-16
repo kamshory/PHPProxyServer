@@ -9,4 +9,4 @@ You require a proxy server to allow access from your application to port 94 via 
 
 All you have to do is create a proxy server that guarantees access to port 94. This proxy server will receive a request from your application and then forward the request to port 94.
 
-You need to allow override document root direcyory on httpd.conf
+You need to allow override document root direcyory on *httpd.conf*
